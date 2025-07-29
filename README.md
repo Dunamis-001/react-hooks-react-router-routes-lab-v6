@@ -37,6 +37,8 @@ src/
 ├── routes.jsx
 ```
 
+
+
 You'll need to fill out these various files to get your app up and running.
 You're also free to make your own new components when you feel its warranted!
 (Look out for repetitive code, or code that seems like it deserves its own new
