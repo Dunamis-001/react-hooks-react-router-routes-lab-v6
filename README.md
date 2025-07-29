@@ -42,6 +42,8 @@ You're also free to make your own new components when you feel its warranted!
 (Look out for repetitive code, or code that seems like it deserves its own new
 component.)
 
+
+
 To start up the lab, first run `npm install`, as per usual. Then run `npm run
 server` to start your `json-server` and `npm run dev` to open the application in
 the browser.
